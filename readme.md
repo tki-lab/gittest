@@ -5,6 +5,20 @@
 
 original master
 
+- faculty of information science
+- kanagawa
+- martial arts
+
+[HCU](https;//www.hiroshima-cu.ac.jp): college
+```c
+#include<stdio.h>
+int main(void){
+    int a=0, b=1;
+    a=b
+    printf("a=%d", a);
+
+}
+```
 
 ## customtea
 ---
@@ -14,6 +28,7 @@ contributer
 - hiroshima-cu
 - programming-circle
 - LEGOMAS
+- information science
 
 [website](http://ctlabnet.clear-net.jp)
 
