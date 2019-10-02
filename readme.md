@@ -15,7 +15,7 @@ contributer
 - programming-circle
 - LEGOMAS
 
-[website](ctlabnet.clear-net.jp)
+[website](http://www.ctlabnet.clear-net.jp)
 
 > 引用してる  
 吾輩は猫である
