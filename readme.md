@@ -9,7 +9,7 @@ original master
 - kanagawa
 - martial arts
 
-[HCU](https;//www.hiroshima-cu.ac.jp): college
+[HCU](https://www.hiroshima-cu.ac.jp): college
 ```c
 #include<stdio.h>
 int main(void){
